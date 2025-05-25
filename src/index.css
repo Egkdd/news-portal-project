@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "CarroisGothic";
+  src: url("./assets/styles/fonts/CarroisGothic-Regular.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #a8c3bc;
+  display: flex;
+  flex-direction: column;
+}
